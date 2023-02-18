@@ -1,6 +1,6 @@
 # Elflyer
 
-[Elflyer](https://steady-meerkat-2fe126.netlify.app/)
+Published on [Elflyer](https://steady-meerkat-2fe126.netlify.app/)
 
 My first project where I have used both the css and js framework. For css framework I have applied Tailwindscss in the project and for js framework I have used Vue.js. In the project I have used some icons from fontawesome.
 
@@ -15,3 +15,5 @@ I have made some changes to the design. For the most part, the appearance of the
   - Axios
   - Vue Pinia
   - Vue Router
+
+There is much that can be improved in the project. Especially using Vue Pinia. But as my first Vue.js project I am satisfied with the results I achieved. Feel free to test the page and give constructive feedback. Thanks.
