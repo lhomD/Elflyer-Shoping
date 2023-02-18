@@ -1,6 +1,6 @@
 # Elflyer
 
-Published on [Elflyer](https://steady-meerkat-2fe126.netlify.app/)
+Published on [Nelify](https://steady-meerkat-2fe126.netlify.app/)
 
 My first project where I have used both the css and js framework. For css framework I have applied Tailwindscss in the project and for js framework I have used Vue.js. In the project I have used some icons from fontawesome.
 
