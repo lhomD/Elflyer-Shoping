@@ -17,3 +17,9 @@ I have made some changes to the design. For the most part, the appearance of the
   - Vue Router
 
 There is much that can be improved in the project. Especially using Vue Pinia. But as my first Vue.js project I am satisfied with the results I achieved. Feel free to test the page and give constructive feedback. Thanks.
+
+![Home Page Hero Section](./screen-img/Home-Hero.png)
+![Home Page Section](./screen-img/Home-Category.png)
+![Singel Product](./screen-img/Singel-Product.png)
+![Relevant Products](./screen-img/Relevant-Products.png)
+![Choosen Category](./screen-img/Category.png)
