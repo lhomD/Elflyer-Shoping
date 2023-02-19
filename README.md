@@ -4,7 +4,7 @@ Published on [Nelify](https://steady-meerkat-2fe126.netlify.app/)
 
 My first project where I have used both the css and js framework. For css framework I have applied Tailwindscss in the project and for js framework I have used Vue.js. In the project I have used some icons from fontawesome.
 
-In the current state you can browse the different categories that api has. Choose a specific product and see its description and browse between the images. And see the relevant products that have are relevant to the selected product.
+In the current state you can browse the different categories that api has. Choose a specific product and see its description and browse between the images. And see the relevant products that are relevant to the selected product.
 
 The website's design is borrowed from [Free Html Templates](https://html.design/download/eflyer-shopping-psd-template/). To retrieve the database for products displayed in the page, I have used [dummyJson](https://dummyjson.com). Unfortunately, the database only shows five products for each category. Only five products are displayed regardless of which category you choose.
 
